@@ -17,7 +17,7 @@
   background-image: url(chispa-chispear.png);
   background-size: contain;
   background-repeat: no-repeat;
-}/*  */
+}
 
 
 header{
@@ -33,7 +33,6 @@ header{
   position: relative;
   justify-content: center;
   z-index:-10 ;
-  /* height: 1000px; */
   background-image: url(fondo.png);
   background-size: contain;
   background-repeat: no-repeat;
